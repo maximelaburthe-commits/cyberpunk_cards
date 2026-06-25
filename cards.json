@@ -641,5 +641,28 @@
       "overwatch panam",
       "overwatch panams gift"
     ]
+    },
+  {
+    "name": "Mox Inciters",
+    "type": "Unit",
+    "image": "mox-inciters.webp",
+    "aliases": [
+      "mox inciters",
+      "mox",
+      "inciters"
+    ]
+  },
+  {
+    "name": "Misty Olszewski - Mender of Broken Spirits",
+    "type": "Unit",
+    "image": "misty-olszewski-mender-of-broken-spirits.webp",
+    "aliases": [
+      "misty olszewski",
+      "misty",
+      "olszewski",
+      "mender of broken spirits",
+      "misty mender",
+      "misty olszewski mender of broken spirits"
+    ]
   }
 ]
