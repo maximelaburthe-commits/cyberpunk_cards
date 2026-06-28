@@ -677,5 +677,16 @@
       "kerry axe",
       "kerry eurodyne axe attitude audience"
     ]
+    },
+  {
+    "name": "La Llorona - Ghost of the Past",
+    "type": "Unit",
+    "image": "la-llorona-ghost-of-the-past.png",
+    "aliases": [
+      "la llorona",
+      "ghost of the past",
+      "llorona",
+      "la llorona ghost of the past"
+    ]
   }
 ]
