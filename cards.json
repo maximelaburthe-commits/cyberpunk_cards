@@ -688,5 +688,17 @@
       "llorona",
       "la llorona ghost of the past"
     ]
+    },
+  {
+    "name": "Saul Bright - Stormrider",
+    "type": "Unit",
+    "image": "saul-bright-stormrider.webp",
+    "aliases": [
+      "saul bright",
+      "saul",
+      "bright",
+      "stormrider",
+      "saul bright stormrider"
+    ]
   }
 ]
