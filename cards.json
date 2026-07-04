@@ -700,5 +700,147 @@
       "stormrider",
       "saul bright stormrider"
     ]
+    },
+  {
+    "name": "Yorinobu Arasaka - Steel Dragon",
+    "type": "Unit",
+    "image": "yorinobu-arasaka-steel-dragon.webp",
+    "aliases": [
+      "yorinobu",
+      "yorinobu arasaka",
+      "steel dragon",
+      "yorinobu arasaka steel dragon"
+    ]
+  },
+  {
+    "name": "Afterparty at Lizzie's",
+    "type": "Program",
+    "image": "afterparty-at-lizzies.webp",
+    "aliases": [
+      "afterparty",
+      "lizzie",
+      "lizzies",
+      "afterparty at lizzies",
+      "afterparty at lizzie's"
+    ]
+  },
+  {
+    "name": "Delamain Cab",
+    "type": "Unit",
+    "image": "delamain-cab.webp",
+    "aliases": [
+      "delamain",
+      "delamain cab",
+      "cab"
+    ]
+  },
+  {
+    "name": "Dexter Deshawn - One Last Chance",
+    "type": "Unit",
+    "image": "dexter-deshawn-one-last-chance.webp",
+    "aliases": [
+      "dexter",
+      "dexter deshawn",
+      "deshawn",
+      "one last chance",
+      "dexter deshawn one last chance"
+    ]
+  },
+  {
+    "name": "Field Operator",
+    "type": "Unit",
+    "image": "field-operator.webp",
+    "aliases": [
+      "field operator",
+      "field",
+      "operator"
+    ]
+  },
+  {
+    "name": "Goro Takemura - Losing His Way",
+    "type": "Unit",
+    "image": "goro-takemura-losing-his-way.webp",
+    "aliases": [
+      "goro",
+      "takemura",
+      "goro takemura",
+      "losing his way",
+      "goro takemura losing his way"
+    ]
+  },
+  {
+    "name": "Industrial Assembly",
+    "type": "Program",
+    "image": "industrial-assembly.webp",
+    "aliases": [
+      "industrial",
+      "assembly",
+      "industrial assembly"
+    ]
+  },
+  {
+    "name": "Nadia - Fighting Through Grief",
+    "type": "Unit",
+    "image": "nadia-fighting-through-grief.webp",
+    "aliases": [
+      "nadia",
+      "fighting through grief",
+      "nadia fighting through grief"
+    ]
+  },
+  {
+    "name": "Over the Edge",
+    "type": "Program",
+    "image": "over-the-edge.webp",
+    "aliases": [
+      "over the edge",
+      "edge"
+    ]
+  },
+  {
+    "name": "Reboot Optics",
+    "type": "Program",
+    "image": "reboot-optics.webp",
+    "aliases": [
+      "reboot",
+      "optics",
+      "reboot optics"
+    ]
+  },
+  {
+    "name": "Sasha Yakovleva - Won't Let You Down",
+    "type": "Legend",
+    "image": "sasha-yakovleva-wont-let-you-down.webp",
+    "aliases": [
+      "sasha",
+      "yakovleva",
+      "sasha yakovleva",
+      "wont let you down",
+      "won't let you down",
+      "sasha yakovleva wont let you down"
+    ]
+  },
+  {
+    "name": "Screw - Lovelorn Fool",
+    "type": "Unit",
+    "image": "screw-lovelorn-fool.webp",
+    "aliases": [
+      "screw",
+      "lovelorn fool",
+      "screw lovelorn fool"
+    ]
+  },
+  {
+    "name": "Viktor Vektor - You Might Feel a Little Pinch",
+    "type": "Unit",
+    "image": "viktor-vektor-you-might-feel-a-little-pinch.webp",
+    "aliases": [
+      "viktor",
+      "vektor",
+      "viktor vektor",
+      "you might feel a little pinch",
+      "little pinch",
+      "viktor vektor you might feel a little pinch"
+    ]
   }
 ]
