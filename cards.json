@@ -842,25 +842,27 @@
       "little pinch",
       "viktor vektor you might feel a little pinch"
     ]
-   },
-   {
-  "name": "Augmented Negotiators",
-  "type": "Unit",
-  "image": "augmented-negotiators.webp",
-  "aliases": [
-    "augmented negotiators",
-    "augmented",
-    "negotiators"
-     ]
-    },
-    {
-  "name": "Jacked-In Voodoo Boy",
-  "type": "Unit",
-  "image": "jacked-in-voodoo-boy.webp",
-  "aliases": [
-    "jacked-in voodoo boy",
-    "jacked in voodoo boy",
-    "voodoo boy",
-    "jacked-in",
-    "jacked in"
-     ]
+  },
+  {
+    "name": "Augmented Negotiators",
+    "type": "Unit",
+    "image": "augmented-negotiators.webp",
+    "aliases": [
+      "augmented negotiators",
+      "augmented",
+      "negotiators"
+    ]
+  },
+  {
+    "name": "Jacked-In Voodoo Boy",
+    "type": "Unit",
+    "image": "jacked-in-voodoo-boy.webp",
+    "aliases": [
+      "jacked-in voodoo boy",
+      "jacked in voodoo boy",
+      "voodoo boy",
+      "jacked-in",
+      "jacked in"
+    ]
+  }
+]
