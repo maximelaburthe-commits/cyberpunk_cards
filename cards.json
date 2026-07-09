@@ -864,5 +864,26 @@
       "jacked-in",
       "jacked in"
     ]
-  }
-]
+  },
+  {
+  "name": "Fool on the Hill",
+  "type": "Program",
+  "image": "fool-on-the-hill.webp",
+  "aliases": [
+    "fool on the hill",
+    "fool",
+    "the hill",
+    "fool hill"
+  ]
+},
+{
+  "name": "Appetite for Destruction",
+  "type": "Program",
+  "image": "appetite-for-destruction.webp",
+  "aliases": [
+    "appetite for destruction",
+    "appetite",
+    "destruction",
+    "appetite destruction"
+  ]
+}
