@@ -885,6 +885,30 @@
     "appetite",
     "destruction",
     "appetite destruction"
-  ]
-}
+    ]
+  },
+  {
+    "name": "Hanako Arasaka - Daughter of the Emperor",
+    "type": "Legend",
+    "image": "hanako-arasaka-daughter-of-the-emperor.webp",
+    "aliases": [
+      "hanako",
+      "hanako arasaka",
+      "daughter of the emperor",
+      "hanako daughter",
+      "hanako arasaka daughter of the emperor"
+    ]
+  },
+  {
+    "name": "Pepe Najarro - Working Doubles",
+    "type": "Unit",
+    "image": "pepe-najarro-working-doubles.webp",
+    "aliases": [
+      "pepe",
+      "najarro",
+      "pepe najarro",
+      "working doubles",
+      "pepe najarro working doubles"
+    ]
+  }
 ]
