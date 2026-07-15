@@ -910,5 +910,25 @@
       "working doubles",
       "pepe najarro working doubles"
     ]
+  },
+  {
+    "name": "Rita Wheeler - No Stupid Questions",
+    "type": "Unit",
+    "image": "rita-wheeler-no-stupid-questions.webp",
+    "aliases": [
+      "rita wheeler",
+      "rita",
+      "wheeler",
+      "no stupid questions",
+      "rita wheeler no stupid questions"
+    ]
+  },
+  {
+    "name": "Octant",
+    "type": "Unit",
+    "image": "octant.webp",
+    "aliases": [
+      "octant"
+    ]
   }
 ]
