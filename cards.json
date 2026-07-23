@@ -930,5 +930,54 @@
     "aliases": [
       "octant"
     ]
-  }
-]
+  },
+  {
+  "name": "Valentino Street Racer",
+  "type": "Unit",
+  "image": "valentino-street-racer.webp",
+  "aliases": [
+    "valentino street racer",
+    "street racer",
+    "valentino racer",
+    "valentino"
+  ]
+},
+{
+  "name": "Bonnie and Clyde",
+  "type": "Program",
+  "image": "bonnie-and-clyde.webp",
+  "aliases": [
+    "bonnie and clyde",
+    "bonnie",
+    "clyde"
+  ]
+},
+{
+  "name": "Japantown Jonin",
+  "type": "Unit",
+  "image": "japantown-jonin.webp",
+  "aliases": [
+    "japantown jonin",
+    "jonin",
+    "japantown"
+  ]
+},
+{
+  "name": "Live with the Aftermath",
+  "type": "Program",
+  "image": "live-with-the-aftermath.webp",
+  "aliases": [
+    "live with the aftermath",
+    "aftermath",
+    "live with aftermath"
+  ]
+},
+{
+  "name": "The Heist",
+  "type": "Program",
+  "image": "the-heist.webp",
+  "aliases": [
+    "the heist",
+    "heist"
+  ]
+}
