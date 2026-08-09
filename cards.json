@@ -980,5 +980,296 @@
     "the heist",
     "heist"
   ]
+},
+{
+  "name": "Judy Álvarez - Nothing To Doubt",
+  "type": "Unit",
+  "image": "judy-alvarez-nothing-to-doubt.webp",
+  "aliases": [
+    "judy",
+    "judy alvarez",
+    "judy álvarez",
+    "nothing to doubt",
+    "judy nothing to doubt",
+    "judy alvarez nothing to doubt"
+  ]
+},
+{
+  "name": "Les Éléments",
+  "type": "Program",
+  "image": "les-elements.webp",
+  "aliases": [
+    "les elements",
+    "les éléments",
+    "elements",
+    "éléments"
+  ]
+},
+{
+  "name": "Maelstrom Zealots",
+  "type": "Unit",
+  "image": "maelstrom-zealots.webp",
+  "aliases": [
+    "maelstrom zealots",
+    "zealots",
+    "maelstrom"
+  ]
+},
+{
+  "name": "MaxTac Squadron",
+  "type": "Unit",
+  "image": "maxtac-squadron.webp",
+  "aliases": [
+    "maxtac squadron",
+    "squadron",
+    "maxtac"
+  ]
+},
+{
+  "name": "MaxTac Suppression Team",
+  "type": "Unit",
+  "image": "maxtac-suppression-team.webp",
+  "aliases": [
+    "maxtac suppression team",
+    "suppression team",
+    "maxtac team",
+    "maxtac"
+  ]
+},
+{
+  "name": "Modded Muramasa",
+  "type": "Unit",
+  "image": "modded-muramasa.webp",
+  "aliases": [
+    "modded muramasa",
+    "muramasa",
+    "modded"
+  ]
+},
+{
+  "name": "NetWatch Netdriver",
+  "type": "Gear",
+  "image": "netwatch-netdriver.webp",
+  "aliases": [
+    "netwatch netdriver",
+    "netdriver",
+    "netwatch"
+  ]
+},
+{
+  "name": "Pacifica Netrunner",
+  "type": "Unit",
+  "image": "pacifica-netrunner.webp",
+  "aliases": [
+    "pacifica netrunner",
+    "pacifica",
+    "netrunner"
+  ]
+},
+{
+  "name": "Pyramid Song",
+  "type": "Program",
+  "image": "pyramid-song.webp",
+  "aliases": [
+    "pyramid song",
+    "pyramid"
+  ]
+},
+{
+  "name": "Riot Shield",
+  "type": "Gear",
+  "image": "riot-shield.webp",
+  "aliases": [
+    "riot shield",
+    "shield",
+    "riot"
+  ]
+},
+{
+  "name": "Rockn' Rockerboy",
+  "type": "Unit",
+  "image": "rockn-rockerboy.webp",
+  "aliases": [
+    "rockn rockerboy",
+    "rockn' rockerboy",
+    "rockerboy",
+    "rockn"
+  ]
+},
+{
+  "name": "Rogue Amendiares - Preem Solo",
+  "type": "Legend",
+  "image": "rogue-amendiares-preem-solo.webp",
+  "aliases": [
+    "rogue",
+    "rogue amendiares",
+    "preem solo",
+    "rogue preem solo",
+    "rogue amendiares preem solo"
+  ]
+},
+{
+  "name": "Safety Override",
+  "type": "Program",
+  "image": "safety-override.webp",
+  "aliases": [
+    "safety override",
+    "override",
+    "safety"
+  ]
+},
+{
+  "name": "Synapse Burnout",
+  "type": "Program",
+  "image": "synapse-burnout.webp",
+  "aliases": [
+    "synapse burnout",
+    "burnout",
+    "synapse"
+  ]
+},
+{
+  "name": "The Relic - Experimental Biochip",
+  "type": "Gear",
+  "image": "the-relic-experimental-biochip.webp",
+  "aliases": [
+    "the relic",
+    "relic",
+    "experimental biochip",
+    "the relic experimental biochip"
+  ]
+},
+{
+  "name": "Trust No One",
+  "type": "Program",
+  "image": "trust-no-one.webp",
+  "aliases": [
+    "trust no one",
+    "trust",
+    "no one"
+  ]
+},
+{
+  "name": "Unlikely Bond",
+  "type": "Program",
+  "image": "unlikely-bond.webp",
+  "aliases": [
+    "unlikely bond",
+    "bond",
+    "unlikely"
+  ]
+},
+{
+  "name": "Valentino Guerrera",
+  "type": "Unit",
+  "image": "valentino-guerrera.webp",
+  "aliases": [
+    "valentino guerrera",
+    "guerrera",
+    "valentino"
+  ]
+},
+{
+  "name": "V - Roamer of the Badlands",
+  "type": "Unit",
+  "image": "v-roamer-of-the-badlands.webp",
+  "aliases": [
+    "v",
+    "roamer of the badlands",
+    "v roamer of the badlands",
+    "badlands"
+  ]
+},
+{
+  "name": "Wild in the Streets",
+  "type": "Program",
+  "image": "wild-in-the-streets.webp",
+  "aliases": [
+    "wild in the streets",
+    "wild streets",
+    "streets"
+  ]
+},
+{
+  "name": "Judy Álvarez - Braindance Maestro",
+  "type": "Legend",
+  "image": "judy-alvarez-braindance-maestro.webp",
+  "aliases": [
+    "judy",
+    "judy alvarez",
+    "judy álvarez",
+    "braindance maestro",
+    "judy braindance",
+    "judy alvarez braindance maestro"
+  ]
+},
+{
+  "name": "Alt Cunningham - Mother of Daemons",
+  "type": "Unit",
+  "image": "alt-cunningham-mother-of-daemons.webp",
+  "aliases": [
+    "alt",
+    "cunningham",
+    "alt cunningham",
+    "mother of daemons",
+    "alt mother of daemons"
+  ]
+},
+{
+  "name": "Animals Wrecker",
+  "type": "Unit",
+  "image": "animals-wrecker.webp",
+  "aliases": [
+    "animals wrecker",
+    "animals",
+    "wrecker"
+  ]
+},
+{
+  "name": "Hacked Corpo",
+  "type": "Unit",
+  "image": "hacked-corpo.webp",
+  "aliases": [
+    "hacked corpo",
+    "hacked",
+    "corpo"
+  ]
+},
+{
+  "name": "Jackie Welles - Mama's Favorite",
+  "type": "Legend",
+  "image": "jackie-welles-mamas-favorite.webp",
+  "aliases": [
+    "jackie",
+    "jackie welles",
+    "mama's favorite",
+    "mamas favorite",
+    "jackie mama",
+    "jackie welles mamas favorite"
+  ]
+},
+{
+  "name": "Johnny Silverhand - Never Stop Fighting",
+  "type": "Unit",
+  "image": "johnny-silverhand-never-stop-fighting.webp",
+  "aliases": [
+    "johnny",
+    "silverhand",
+    "johnny silverhand",
+    "never stop fighting",
+    "johnny never stop fighting"
+  ]
+},
+{
+  "name": "Johnny Silverhand - Rocking Renegade",
+  "type": "Legend",
+  "image": "johnny-silverhand-rocking-renegade.webp",
+  "aliases": [
+    "johnny",
+    "silverhand",
+    "johnny silverhand",
+    "rocking renegade",
+    "johnny rocking renegade"
+  ]
 }
-]  
+]
