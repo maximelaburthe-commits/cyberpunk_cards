@@ -1271,5 +1271,87 @@
     "rocking renegade",
     "johnny rocking renegade"
   ]
+},
+{
+  "name": "Trauma Team Operatives",
+  "type": "Unit",
+  "image": "trauma-team-operatives.webp",
+  "aliases": [
+    "trauma team operatives",
+    "trauma team",
+    "operatives"
+  ]
+},
+{
+  "name": "Wakako Okada - Peace and Harmony",
+  "type": "Legend",
+  "image": "wakako-okada-peace-and-harmony.webp",
+  "aliases": [
+    "wakako",
+    "wakako okada",
+    "peace and harmony",
+    "wakako okada peace and harmony"
+  ]
+},
+{
+  "name": "Adrenaline Converter",
+  "type": "Gear",
+  "image": "adrenaline-converter.webp",
+  "aliases": [
+    "adrenaline converter",
+    "adrenaline",
+    "converter"
+  ]
+},
+{
+  "name": "Deadman Transmitter",
+  "type": "Gear",
+  "image": "deadman-transmitter.webp",
+  "aliases": [
+    "deadman transmitter",
+    "deadman",
+    "transmitter"
+  ]
+},
+{
+  "name": "Delamain - Rideshare AI",
+  "type": "Unit",
+  "image": "delamain-rideshare-ai.webp",
+  "aliases": [
+    "delamain",
+    "rideshare ai",
+    "delamain rideshare ai"
+  ]
+},
+{
+  "name": "Gunpoint Diplomacy",
+  "type": "Program",
+  "image": "gunpoint-diplomacy.webp",
+  "aliases": [
+    "gunpoint diplomacy",
+    "gunpoint",
+    "diplomacy"
+  ]
+},
+{
+  "name": "Maelstrom Goons",
+  "type": "Unit",
+  "image": "maelstrom-goons.webp",
+  "aliases": [
+    "maelstrom goons",
+    "maelstrom",
+    "goons"
+  ]
+},
+{
+  "name": "Panam Palmer - Strength Through Family",
+  "type": "Unit",
+  "image": "panam-palmer-strength-through-family.webp",
+  "aliases": [
+    "panam",
+    "panam palmer",
+    "strength through family",
+    "panam palmer strength through family"
+  ]
 }
 ]
