@@ -1479,5 +1479,28 @@
     "maxtac",
     "av"
   ]
+},
+{
+  "name": "Viktor Vektor - Drop Your Illusions",
+  "type": "Unit",
+  "image": "viktor-vektor-drop-your-illusions.webp",
+  "aliases": [
+    "viktor",
+    "vektor",
+    "viktor vektor",
+    "drop your illusions",
+    "viktor vektor drop your illusions"
+  ]
+},
+{
+  "name": "Shattered Memories",
+  "type": "Program",
+  "image": "shattered-memories.webp",
+  "aliases": [
+    "shattered memories",
+    "shattered",
+    "memories"
+  ]
 }
 ]
+
