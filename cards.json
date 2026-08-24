@@ -1353,5 +1353,131 @@
     "strength through family",
     "panam palmer strength through family"
   ]
+},
+{
+  "name": "Muamar Reyes - El Capitan",
+  "type": "Legend",
+  "image": "muamar-reyes-el-capitan.webp",
+  "aliases": [
+    "muamar",
+    "reyes",
+    "muamar reyes",
+    "el capitan",
+    "muamar reyes el capitan"
+  ]
+},
+{
+  "name": "Padre - Man of the Cross",
+  "type": "Legend",
+  "image": "padre-man-of-the-cross.webp",
+  "aliases": [
+    "padre",
+    "man of the cross",
+    "padre man of the cross"
+  ]
+},
+{
+  "name": "Rogue Amendiares - Queen of the Afterlife",
+  "type": "Unit",
+  "image": "rogue-amendiares-queen-of-the-afterlife.webp",
+  "aliases": [
+    "rogue",
+    "rogue amendiares",
+    "queen of the afterlife",
+    "rogue amendiares queen of the afterlife"
+  ]
+},
+{
+  "name": "Ruthless Lowlife",
+  "type": "Unit",
+  "image": "ruthless-lowlife.webp",
+  "aliases": [
+    "ruthless lowlife",
+    "ruthless",
+    "lowlife"
+  ]
+},
+{
+  "name": "Tetratronic Rippler",
+  "type": "Gear",
+  "image": "tetratronic-rippler.webp",
+  "aliases": [
+    "tetratronic rippler",
+    "tetratronic",
+    "rippler"
+  ]
+},
+{
+  "name": "Zetatech Berserk",
+  "type": "Gear",
+  "image": "zetatech-berserk.webp",
+  "aliases": [
+    "zetatech berserk",
+    "zetatech",
+    "berserk"
+  ]
+},
+{
+  "name": "Arasaka Emergency Radioport",
+  "type": "Gear",
+  "image": "arasaka-emergency-radioport.webp",
+  "aliases": [
+    "arasaka emergency radioport",
+    "emergency radioport",
+    "radioport"
+  ]
+},
+{
+  "name": "Chrome Fang",
+  "type": "Unit",
+  "image": "chrome-fang.webp",
+  "aliases": [
+    "chrome fang",
+    "chrome",
+    "fang"
+  ]
+},
+{
+  "name": "Dexter Deshawn - Off the Grid",
+  "type": "Legend",
+  "image": "dexter-deshawn-off-the-grid.webp",
+  "aliases": [
+    "dexter",
+    "deshawn",
+    "dexter deshawn",
+    "off the grid",
+    "dexter deshawn off the grid"
+  ]
+},
+{
+  "name": "(Don't Fear) The Reaper",
+  "type": "Program",
+  "image": "dont-fear-the-reaper.webp",
+  "aliases": [
+    "don't fear the reaper",
+    "dont fear the reaper",
+    "the reaper",
+    "reaper"
+  ]
+},
+{
+  "name": "Heywood Ripperdoc",
+  "type": "Unit",
+  "image": "heywood-ripperdoc.webp",
+  "aliases": [
+    "heywood ripperdoc",
+    "heywood",
+    "ripperdoc"
+  ]
+},
+{
+  "name": "MaxTac AV",
+  "type": "Unit",
+  "image": "maxtac-av.webp",
+  "aliases": [
+    "maxtac av",
+    "maxtac",
+    "av"
+  ]
 }
 ]
