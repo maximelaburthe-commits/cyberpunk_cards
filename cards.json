@@ -1501,6 +1501,84 @@
     "shattered",
     "memories"
   ]
+},
+{
+  "name": "Tyger's Whisper",
+  "type": "Unit",
+  "image": "tygers-whisper.webp",
+  "aliases": [
+    "tyger's whisper",
+    "tygers whisper",
+    "tyger whisper",
+    "whisper"
+  ]
+},
+{
+  "name": "We Gotta Live Together",
+  "type": "Program",
+  "image": "we-gotta-live-together.webp",
+  "aliases": [
+    "we gotta live together",
+    "gotta live together",
+    "live together"
+  ]
+},
+{
+  "name": "Detonate",
+  "type": "Program",
+  "image": "detonate.webp",
+  "aliases": [
+    "detonate"
+  ]
+},
+{
+  "name": "Memory Relapse",
+  "type": "Program",
+  "image": "memory-relapse.webp",
+  "aliases": [
+    "memory relapse",
+    "memory",
+    "relapse"
+  ]
+},
+{
+  "name": "Nocturne OP55N1",
+  "type": "Program",
+  "image": "nocturne-op55n1.webp",
+  "aliases": [
+    "nocturne op55n1",
+    "nocturne",
+    "op55n1"
+  ]
+},
+{
+  "name": "Three Mouths, One Desire",
+  "type": "Program",
+  "image": "three-mouths-one-desire.webp",
+  "aliases": [
+    "three mouths, one desire",
+    "three mouths one desire",
+    "three mouths",
+    "one desire"
+  ]
+},
+{
+  "name": "Towerfall",
+  "type": "Program",
+  "image": "towerfall.webp",
+  "aliases": [
+    "towerfall"
+  ]
+},
+{
+  "name": "Westbrook Netrunner",
+  "type": "Unit",
+  "image": "westbrook-netrunner.webp",
+  "aliases": [
+    "westbrook netrunner",
+    "westbrook",
+    "netrunner"
+  ]
 }
 ]
 
